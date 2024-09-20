@@ -1,4 +1,9 @@
-## Hi there 👋
+1 # Bem-vindo ao meuperfil! 😃
+2 -Meu nome é João Victor de Sousa Soares
+3 -Sou estudante da 1ª série do ensino médio
+4 -Estou interessado nas áreas de administração
+5 -Meu instagram é Viictor_dess
+6 -Meu imail é jvic686@gmail.com
 
 <!--
 **viictordess/viictordess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
