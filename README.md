@@ -1,4 +1,4 @@
-1 # Bem-vindo ao meuperfil! 😃
+1 # Bem-vindo ao meu perfil! 😃
 2 -Meu nome é João Victor de Sousa Soares
 3 -Sou estudante da 1ª série do ensino médio
 4 -Estou interessado nas áreas de administração
